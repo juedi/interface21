@@ -87,6 +87,4 @@ The "dist" directory contains the following (overlapping) Jar files for use in a
 
 “Expert One-on-One J2EE设计与开发”详细讨论了Spring的许多设计思想。注意：本书中的代码示例引用了本书附带的原始框架版本。因此，它们可能需要适应当前的Spring版本。
 
-本人微信，欢迎一起探讨：
 
-![image](https://user-images.githubusercontent.com/24973360/50372024-5f975d00-0601-11e9-8247-139e145b1123.png)
